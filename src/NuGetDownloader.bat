@@ -1,0 +1,1 @@
+PowerShell -ExecutionPolicy Bypass -Command "& '%~dp0\NuGetDownloader.ps1' %*"
